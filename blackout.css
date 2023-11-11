@@ -2,3 +2,8 @@ body{
   background:black;
   color:white;
 }
+button:active,
+a:active{
+  display:inline-block;
+  transform:translate3d(0px,2px,0);
+}

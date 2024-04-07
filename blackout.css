@@ -1,7 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+
+code,pre,input,button,html{
+  font-size:21px;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+}
+
 body{
   background:black;
   color:white;
 }
+
 button:active,
 a:active{
   display:inline-block;
